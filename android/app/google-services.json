@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "547733600624",
+    "firebase_url": "https://wrkn-test.firebaseio.com",
+    "project_id": "wrkn-test",
+    "storage_bucket": "wrkn-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547733600624:android:6942c5fc094b85cdb537b5",
+        "android_client_info": {
+          "package_name": "com.example.workntest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547733600624-8diiq21q1iae86a3lg193nq8bl7erd2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_DnZpcrfHLb3qnQuyQNrQJ6NhJcBr-lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547733600624-8diiq21q1iae86a3lg193nq8bl7erd2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547733600624-ckv4702gd75jg66nvp4qlbstakucc0c4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.workntest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
